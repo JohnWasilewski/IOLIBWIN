@@ -1,0 +1,207 @@
+{
+  "Root":{
+    "Folders":[{
+        "Folders":[],
+        "Name":"+INC",
+        "Files":[]
+      },{
+        "Folders":[],
+        "Name":"+LIBs",
+        "Files":[]
+      },{
+        "Folders":[],
+        "Name":"+MODs",
+        "Files":[{
+            "filename":"C:\\dislin\\gf\\dislin.f90",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\MODULES\\mCONFIG.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\MODULES\\mFiles.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\MODULES\\mLUNITS.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\MODULES\\mRTF.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\MODULES\\mTITLES.for",
+            "enabled":"1"
+          }]
+      },{
+        "Folders":[],
+        "Name":"+PROG",
+        "Files":[{
+            "filename":"..\\Source\\AIF.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\AInput.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\Banner.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\biofix.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\Commas.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\DATEandTIME.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\Disp.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\Error.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\ff.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\FIF.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\FindChr.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\I2Char.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\IIF.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\IInput.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\Indent.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\LenStr.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\LF.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\LStri.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\LTrim.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\NextFreeLU.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\nPage.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\OpenE.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\Opener.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\OpenI.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\OpenO.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\PadStr.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\Prompt.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\R2Char.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\RInput.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\RTFini.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\Send.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\SkipChr.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\StriI.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\StringR.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\StriR.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\UndLin.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\VerLib.for",
+            "enabled":"1"
+          },{
+            "filename":"..\\Source\\write.for",
+            "enabled":"1"
+          }]
+      }],
+    "Name":"+IOlibWin64 (libioLibWin64.a)",
+    "Files":[]
+  },
+  "Name":"IOlibWin64 (libioLibWin64.a)",
+  "Options":{
+    "Compiler Options":{
+      "Fortran Flags":"-fdollar-ok",
+      "Link Flags":"",
+      "C Flags":""
+    },
+    "Architecture":1,
+    "Type":2,
+    "Revision":2,
+    "Windows GUI":0,
+    "Fortran Options":{
+      "Use C Preprocessor":"true",
+      "Runtime Diagnostics":"false",
+      "Cray Pointers":"false",
+      "Enable OpenMP":"false",
+      "Enable Coarrays":"false",
+      "Default Double for Real":"false"
+    },
+    "File Options":{
+      "Library Directories":["Default Library Directory","Default Add-On Directory","usr/lib64"],
+      "Build Directory":"build64",
+      "Module Directory":"modules64",
+      "Include Directories":["Default Include Directory","Default Add-On Include Directory","../Source/INCLUDE"]
+    },
+    "Target":"libioLibWin64.a",
+    "Icon":".\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\",
+    "Code Generation Options":{
+      "CPU Specific":"false",
+      "Processor":"generic",
+      "Aggressive Loops":"false",
+      "Debugging":"true",
+      "Optimization Mode":0,
+      "Profiling":"false"
+    },
+    "Build Dependencies":1,
+    "Launch Options":{
+      "Working Directory":"",
+      "Keep Console":"true",
+      "External Console":"false",
+      "Command Line Arguments":"",
+      "Build Before Launch":"false"
+    },
+    "Build Options":{
+      "Makefile":"Makefile64",
+      "Auto Makefile":"true"
+    },
+    "Linker Options":{
+      "Static Linking Mode":7,
+      "Link LAPACK":0
+    }
+  }
+}
