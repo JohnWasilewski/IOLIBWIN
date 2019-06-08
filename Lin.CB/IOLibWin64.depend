@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1468775336 source:/home/jmw/DEV/IOLibWin/Lin.CB/main.f95
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/AIF.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/AInput.for
+
+1407736644 source:/home/jmw/DEV/IOLibWin/Source/Banner.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/biofix.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/Commas.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/config.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/DATEandTIME.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/Disp.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/Error.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/ff.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/FIF.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/FindChr.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/I2Char.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/IIF.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/IInput.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/Indent.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/LenStr.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/LF.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/LStri.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/LTrim.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/NextFreeLU.for
+
+1411457292 source:/home/jmw/DEV/IOLibWin/Source/nPage.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/OpenE.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/Opener.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/OpenI.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/OpenO.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/PadStr.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/Prompt.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/R2Char.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/RInput.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/RTFini.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/Send.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/SkipChr.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/StriI.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/StringR.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/StriR.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/UndLin.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/VerLib.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/write.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/MODULES/mCONFIG.for
+
+1415206594 source:/home/jmw/DEV/IOLibWin/Source/MODULES/mFiles.for
+
+1411801240 source:/home/jmw/DEV/IOLibWin/Source/MODULES/mLUNITS.for
+
+1411892122 source:/home/jmw/DEV/IOLibWin/Source/MODULES/mRTF.for
+
+1407722300 source:/home/jmw/DEV/IOLibWin/Source/MODULES/mTITLES.for
+

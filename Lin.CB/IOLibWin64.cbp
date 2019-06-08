@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="IOLibWin" />
+		<Option makefile="Makefile64" />
+		<Option pch_mode="2" />
+		<Option compiler="gfortran" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ioLibWin64" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gfortran" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ioLibWin64" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gfortran" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-fdefault-real-8" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O2" />
+			<Add option="-cpp" />
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add option="-s" />
+		</Linker>
+		<Unit filename="../Source/AIF.for" />
+		<Unit filename="../Source/AInput.for" />
+		<Unit filename="../Source/Banner.for" />
+		<Unit filename="../Source/Commas.for" />
+		<Unit filename="../Source/DATEandTIME.for" />
+		<Unit filename="../Source/Disp.for" />
+		<Unit filename="../Source/Error.for" />
+		<Unit filename="../Source/FIF.for" />
+		<Unit filename="../Source/FindChr.for" />
+		<Unit filename="../Source/I2Char.for" />
+		<Unit filename="../Source/IIF.for" />
+		<Unit filename="../Source/IInput.for" />
+		<Unit filename="../Source/INCLUDE/ASCCOM.INC" />
+		<Unit filename="../Source/INCLUDE/ASCTYP.INC" />
+		<Unit filename="../Source/INCLUDE/CFGCOM.INC" />
+		<Unit filename="../Source/INCLUDE/CFGTYP.INC" />
+		<Unit filename="../Source/INCLUDE/LUCOM.INC" />
+		<Unit filename="../Source/INCLUDE/TITCOM.INC" />
+		<Unit filename="../Source/INCLUDE/TITTYP.INC" />
+		<Unit filename="../Source/Indent.for" />
+		<Unit filename="../Source/LF.for" />
+		<Unit filename="../Source/LStri.for" />
+		<Unit filename="../Source/LTrim.for" />
+		<Unit filename="../Source/LenStr.for" />
+		<Unit filename="../Source/MODULES/mCONFIG.for" />
+		<Unit filename="../Source/MODULES/mFiles.for" />
+		<Unit filename="../Source/MODULES/mLUNITS.for" />
+		<Unit filename="../Source/MODULES/mRTF.for" />
+		<Unit filename="../Source/MODULES/mTITLES.for" />
+		<Unit filename="../Source/NextFreeLU.for" />
+		<Unit filename="../Source/OpenE.for" />
+		<Unit filename="../Source/OpenI.for" />
+		<Unit filename="../Source/OpenO.for" />
+		<Unit filename="../Source/Opener.for" />
+		<Unit filename="../Source/PadStr.for" />
+		<Unit filename="../Source/Prompt.for" />
+		<Unit filename="../Source/R2Char.for" />
+		<Unit filename="../Source/RInput.for" />
+		<Unit filename="../Source/RTFini.for" />
+		<Unit filename="../Source/Send.for" />
+		<Unit filename="../Source/SkipChr.for" />
+		<Unit filename="../Source/StriI.for" />
+		<Unit filename="../Source/StriR.for" />
+		<Unit filename="../Source/StringR.for" />
+		<Unit filename="../Source/UndLin.for" />
+		<Unit filename="../Source/VerLib.for" />
+		<Unit filename="../Source/biofix.for" />
+		<Unit filename="../Source/config.for" />
+		<Unit filename="../Source/ff.for" />
+		<Unit filename="../Source/nPage.for" />
+		<Unit filename="../Source/write.for" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

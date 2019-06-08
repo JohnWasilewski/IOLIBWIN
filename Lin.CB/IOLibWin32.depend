@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1468775337 source:/home/pi/DEV/IOLibWin/main.f95
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/AIF.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/MODULES/mCONFIG.for
+
+1415206594 source:/home/pi/DEV/IOLibWin/Source/MODULES/mFiles.for
+
+1411801240 source:/home/pi/DEV/IOLibWin/Source/MODULES/mLUNITS.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/MODULES/mTITLES.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/AInput.for
+
+1407736644 source:/home/pi/DEV/IOLibWin/Source/Banner.for
+
+1411892122 source:/home/pi/DEV/IOLibWin/Source/MODULES/mRTF.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/biofix.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/Commas.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/config.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/DATEandTIME.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/Disp.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/Error.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/ff.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/FIF.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/FindChr.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/I2Char.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/IIF.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/IInput.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/Indent.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/LenStr.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/LF.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/LStri.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/LTrim.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/NextFreeLU.for
+
+1411457292 source:/home/pi/DEV/IOLibWin/Source/nPage.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/OpenE.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/Opener.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/OpenI.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/OpenO.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/PadStr.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/Prompt.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/R2Char.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/RInput.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/RTFini.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/Send.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/SkipChr.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/StriI.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/StringR.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/StriR.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/UndLin.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/VerLib.for
+
+1407722300 source:/home/pi/DEV/IOLibWin/Source/write.for
+
